@@ -3,6 +3,7 @@ MAINTAINER "Arron Schaar"
 
 ENV CONFIG_DIR "/config/"
 
+
 VOLUME /config/
 VOLUME /root/.two1/
 
